@@ -20,6 +20,7 @@ import org.testng.annotations.AfterTest;
 		public class Exercise_05_Button_Checkbox_Alert {
 			WebDriver driver;
 			JavascriptExecutor jsExecutor;
+
 	
 			@BeforeTest
 			public void beforeTest() {
